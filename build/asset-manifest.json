@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MessagingApp/static/css/main.595a0779.css",
+    "main.js": "/MessagingApp/static/js/main.21085eff.js",
+    "static/js/787.38a00480.chunk.js": "/MessagingApp/static/js/787.38a00480.chunk.js",
+    "static/media/pikachu.png": "/MessagingApp/static/media/pikachu.d227d578fe284e1fc4a5.png",
+    "index.html": "/MessagingApp/index.html",
+    "main.595a0779.css.map": "/MessagingApp/static/css/main.595a0779.css.map",
+    "main.21085eff.js.map": "/MessagingApp/static/js/main.21085eff.js.map",
+    "787.38a00480.chunk.js.map": "/MessagingApp/static/js/787.38a00480.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.595a0779.css",
+    "static/js/main.21085eff.js"
+  ]
+}
